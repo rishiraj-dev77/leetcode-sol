@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 10 / 150 (6.7%)
+- **Completed:** 11 / 150 (7.3%)
 
 ---
 
@@ -173,7 +173,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [x] [Number of 1 Bits](./Java/Easy/191. Number of 1 Bits/)
 - [ ] Counting Bits
 - [x] [Reverse Bits](./Java/Easy/190. Reverse Bits/)
-- [ ] Missing Number
+- [x] [Missing Number](./Java/Easy/268. Missing Number/)
 - [ ] Sum of Two Integers
 - [x] [Reverse Integer](./Python/Medium/7. Reverse Integer/)
 
