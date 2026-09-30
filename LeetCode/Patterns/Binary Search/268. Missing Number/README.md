@@ -8,8 +8,8 @@
 Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting
 
 ### 🚀 Performance
-- **Runtime:** 6 ms
-- **Memory:** 47.3 MB
+- **Runtime:** 81 ms
+- **Memory:** 47.1 MB
 
 ---
 
