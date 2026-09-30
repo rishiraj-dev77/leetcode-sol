@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 11 / 150 (7.3%)
+- **Completed:** 12 / 150 (8.0%)
 
 ---
 
@@ -171,7 +171,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ### 📂 Bit Manipulation
 - [x] [Single Number](./Java/Easy/136. Single Number/)
 - [x] [Number of 1 Bits](./Java/Easy/191. Number of 1 Bits/)
-- [ ] Counting Bits
+- [x] [Counting Bits](./Java/Easy/338. Counting Bits/)
 - [x] [Reverse Bits](./Java/Easy/190. Reverse Bits/)
 - [x] [Missing Number](./Java/Easy/268. Missing Number/)
 - [ ] Sum of Two Integers
